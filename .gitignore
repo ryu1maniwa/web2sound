@@ -1,0 +1,6 @@
+*.asv
+/.vscode
+*.png
+*.mp3
+*.mp4
+!.gitignore
